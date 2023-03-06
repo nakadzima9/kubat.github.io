@@ -1,0 +1,14 @@
+.color{
+	color: red;
+	background-color: black;
+}
+.slick-prev{
+	color: red;
+	background-color: #666;
+	border-radius: 5px;
+}
+.slick-prev:hover{
+	color: #666;
+	background-color: #333;
+	border-radius: 5px;
+}
